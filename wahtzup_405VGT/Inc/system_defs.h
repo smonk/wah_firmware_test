@@ -1,0 +1,9 @@
+#ifndef __SYSTEM_DEFS_H
+#define __SYSTEM_DEFS_H
+
+
+#define AUDIO_BLOCK_SIZE 256
+#define ADC_POT_BUFFER_SIZE 8
+#define SAMPLING_RATE 32000 
+
+#endif
